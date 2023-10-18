@@ -1,0 +1,15 @@
+.a{
+   
+
+}
+.b{
+    border: 2px solid whitesmoke;
+   width: 300px; 
+   height: 400px;
+   float: left;
+   background-color: whitesmoke;
+   margin:10px;
+   margin-left:45px;  
+   border-radius: 8px;
+   box-shadow: 3px 5px 13px #020001;
+}

@@ -1,0 +1,250 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: white;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 92px;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+.banner {
+    background: url(../image/about-foodpanda.jpeg);
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+
+.a {
+    margin-left: 150px;
+    margin-top: 12px;
+}
+
+.menu a {
+    color: black;
+    font-size: 20px;
+    font-family: system-ui;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.banner h1 {
+    background: yellowgreen;
+    text-align: center;
+    font-size: 100px;
+    color: whitesmoke;
+    padding-top: 75;
+    margin: auto;
+    width: 50%;
+    position: relative;
+    top: 200px;
+}
+
+.banner p {
+    text-align: center;
+    color: whitesmoke;
+    margin: auto;
+    width: 50%;
+    font-size: 25px;
+    padding-top: 220px;
+}
+
+.border {
+    background: #92235184;
+    width: 100%;
+    height: 60px;
+    margin-top: -60px;
+}
+
+.border marquee {
+    font-size: 30px;
+    color: rgba(255, 255, 1, 0.848);
+    line-height: 60px;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.about {
+    background: white;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    padding: 140px 200px;
+}
+
+.about h2 {
+    font-size: 32px;
+    font-family: cursive;
+    text-transform: uppercase;
+    color: #ff2b85;
+    margin-bottom: 10px;
+}
+
+.about p {
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-family: sans-serif;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+.about button {
+    width: 183px;
+    height: 44px;
+    background: #ff2b85;
+    color: white;
+    font-size: 14px;
+    border: navajowhite;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+.team {
+    background: url(../image/team\ us.jpg);
+    width: 100%;
+    height: 550px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    padding: 140px 200px;
+}
+
+.team h2 {
+    font-size: 32px;
+    font-family: cursive;
+    text-transform: uppercase;
+    color: #ff2b85;
+    margin-bottom: 10px;
+}
+
+.team p {
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-family: sans-serif;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+.team button {
+    width: 183px;
+    height: 44px;
+    background: #ff2b85;
+    color: white;
+    font-size: 14px;
+    border: navajowhite;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+.press {
+    background: url(../image/press.jpeg);
+    width: 100%;
+    height: 550px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    padding: 140px 200px;
+}
+
+.press h2 {
+    font-size: 32px;
+    font-family: cursive;
+    text-transform: uppercase;
+    color: cyan;
+    margin-bottom: 10px;
+}
+
+.press p {
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-family: sans-serif;
+    line-height: 30px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.press button {
+    width: 183px;
+    height: 44px;
+    background: cyan;
+    color: black;
+    font-size: 14px;
+    border: navajowhite;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+.contact {
+    background: #ff2b85;
+    width: 100%;
+    height: 550px;
+    text-align: center;
+    padding: 140px 200px;
+}
+
+.contact h2 {
+    font-size: 32px;
+    font-family: cursive;
+    text-transform: uppercase;
+    color: cadetblue;
+    margin-bottom: 10px;
+}
+
+.contact p {
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-family: sans-serif;
+    line-height: 30px;
+    margin-bottom: 10px;
+    color: whitesmoke;
+}
+
+.contact button {
+    width: 183px;
+    height: 44px;
+    background: cadetblue;
+    color: white;
+    font-size: 14px;
+    border: navajowhite;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+footer {
+    background: white;
+    width: 100%;
+    height: 400px;
+    padding: 20px 60px;
+}
+
+.ram {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ram h3 {
+    color: darkslategrey;
+}
+
+.raj {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 0;
+}
+
+.ram a {
+    text-decoration: none;
+    color: gray;
+}

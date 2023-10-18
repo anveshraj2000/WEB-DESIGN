@@ -1,0 +1,25 @@
+
+.a{
+    background:indigo;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+
+}
+.b{
+    border: 2px solid white;
+    width: 300px;
+    height: 400px;
+    float: left;
+    background-color:white;
+    margin-left: 10px;
+
+}
+.c{
+    width: 300px;
+    height: 320px;
+
+}
+.d{
+    color: darkblue;
+}

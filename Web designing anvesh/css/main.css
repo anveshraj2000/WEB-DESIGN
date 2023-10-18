@@ -1,0 +1,48 @@
+body{
+    background: #e3e6e6;
+}
+.a{
+    border: 2px solid white;
+    width: 320px;
+    height: 600px;
+    float: left;
+    margin: 9PX;
+    background-color: white;
+    box-shadow: 3px 5px 13px #020001;
+}
+.b{
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.b{
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+
+
+}
+.btn{
+    position: relative;
+    top: -10px;
+    width: 184px;
+    height: 36px;
+    background-color: #008b34;
+    color: white;
+    font-size: 17px;
+    border: none;
+    border-radius: 6px;
+    box-shadow: 3px 5px 13px #020001;
+
+}
+.btn :hover{
+    background: yellow;
+    transition: 1s;
+
+}
+.a :hover{
+    background: yellow;
+    transition: 1s;
+}
